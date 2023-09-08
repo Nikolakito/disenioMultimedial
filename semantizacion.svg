@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="dibujo.svg"
+   sodipodi:docname="semantizacion.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.83744452"
-     inkscape:cx="545.11074"
-     inkscape:cy="370.77083"
+     inkscape:zoom="0.5921627"
+     inkscape:cx="748.94957"
+     inkscape:cy="493.95209"
      inkscape:window-width="1366"
      inkscape:window-height="704"
      inkscape:window-x="0"
@@ -122,14 +122,14 @@
        id="path121"
        style="font-weight:200;font-size:14.1111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Light';font-variant-ligatures:none;stroke-width:5.8739" />
     <rect
-       style="fill:#ffffff;stroke-width:4.95118"
+       style="fill:#ffffff;stroke-width:4.95118;stroke:#ffffff;stroke-opacity:1"
        id="rect57723"
        width="10.03722"
        height="225.8665"
        x="296.53839"
        y="293.13626" />
     <rect
-       style="fill:#ffffff;stroke-width:4.95118"
+       style="fill:#ffffff;stroke-width:4.95118;stroke:#ffffff;stroke-opacity:1"
        id="rect57755"
        width="10.341738"
        height="225.86649"
